@@ -1,4 +1,4 @@
-title: "Calculus 1 Success Session"
+title: "Calculus Success Session"
 author: "Blog Author"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
@@ -16,8 +16,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", icon: Problems}
-  - {file: "README.md"}
+  - {title: "Problems"}
+  - {title: "Videos"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - #{title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
