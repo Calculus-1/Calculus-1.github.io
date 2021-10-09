@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "Problems", url: "https://drive.google.com/file/d/1Xutp9D1lb_x5PedThIaBktzduFV2KQPh/view?usp=sharing"}
+  - {title: "Resources", url: "https://drive.google.com/file/d/1Xutp9D1lb_x5PedThIaBktzduFV2KQPh/view?usp=sharing"}
   - {title: "Videos"}
   - {title: "About"}
 
